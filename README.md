@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Kopal Rustagi , 2nd year Computer Engineering graduate at  Netaji Subhash University of Technology
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopal960&layout=compact&theme=react" height="200"/>
- <img src="https://github-readme-stats.vercel.app/api?username=kopal960&count_private=true&show_icons=true&hide_rank=false&theme=react" height ="200" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopal960&layout=compact&theme=react" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=kopal960&count_private=true&show_icons=true&hide_rank=false&theme=react" height ="150" />
 </p>
 
 ## 
